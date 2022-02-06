@@ -1,0 +1,12 @@
+E:\SE\jagaRust\cs561-rust\target\debug\deps\httparse-21ff42cc55c60264.rmeta: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\iter.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\macros.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\mod.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\sse42.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\avx2.rs
+
+E:\SE\jagaRust\cs561-rust\target\debug\deps\libhttparse-21ff42cc55c60264.rlib: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\iter.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\macros.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\mod.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\sse42.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\avx2.rs
+
+E:\SE\jagaRust\cs561-rust\target\debug\deps\httparse-21ff42cc55c60264.d: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\iter.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\macros.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\mod.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\sse42.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\avx2.rs
+
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\lib.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\iter.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\macros.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\mod.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\sse42.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.5.1\src\simd\avx2.rs:

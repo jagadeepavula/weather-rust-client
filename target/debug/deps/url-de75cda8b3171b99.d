@@ -1,0 +1,13 @@
+E:\SE\jagaRust\cs561-rust\target\debug\deps\url-de75cda8b3171b99.rmeta: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+E:\SE\jagaRust\cs561-rust\target\debug\deps\liburl-de75cda8b3171b99.rlib: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+E:\SE\jagaRust\cs561-rust\target\debug\deps\url-de75cda8b3171b99.d: C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs
+
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\lib.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\host.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\origin.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\parser.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\path_segments.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\slicing.rs:
+C:\Users\jagad\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.2\src\quirks.rs:
