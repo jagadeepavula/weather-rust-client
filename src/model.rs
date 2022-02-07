@@ -15,8 +15,3 @@ pub struct Weather {
 pub struct Main {
     temp: f64,
 }
-#[derive(Debug, Serialize, Deserialize)]
-pub struct Token {
-    pub(crate) jwt: String,
-    exp: String
-}
